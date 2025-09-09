@@ -32,13 +32,13 @@ PostgreSQL, MongoDB, MySQL, Redis
 AWS, Docker, Kubernetes
 
 **CI/CD & Version Control:**  
-Git, GitHub Actions, GitLab
+Git, Github, GitHub Actions, GitLab
 
 **Infrastructure as Code:**  
 Pulumi, Ansible
 
 **Architecture:**  
-Monolith, Microservices
+Monolith, Microservices, serverless
 
 **Messaging & Comms:**  
 RabbitMQ, REST, GraphQL, WebSockets
