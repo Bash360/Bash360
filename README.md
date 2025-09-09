@@ -13,7 +13,7 @@
 
 ## 🚀 Summary
 
-Cloud native software engineer with over 6 years of experience building, testing, and deploying scalable solutions for startups, fintech, and social impact. Proficient in TypeScript and Go, with a focus on high-performance, secure, customer-centric applications.
+Cloud native software engineer with over 6 years of experience building, testing, and deploying scalable solutions for startups, fintech, and social impact projetcs. Proficient in TypeScript and Go, with a focus on high-performance, secure, customer-centric applications.
 
 ---
 
