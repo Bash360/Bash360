@@ -63,7 +63,7 @@ University of Benin, Nigeria
 
 ## 🏅 Certification
 
-- Kubernetes and Cloud Native Associate (KCNA)
+- Kubernetes and Cloud Native Associate (KCNA) [Veriify](https://www.credly.com/badges/d424ac47-0fcc-4662-8a78-6db4beb5a291/public_url)
 
 ---
 
