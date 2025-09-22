@@ -1,7 +1,7 @@
 <!-- Profile README for Mark Bashir (@Bash360) -->
 
 <h1 align="center">Hi 👋, I am Bash</h1>
-<h3 align="center">Senior Software Engineer | Cloud Native Specialist</h3>
+<h3 align="center">Senior Software Engineer | Cloud Native Engineer</h3>
 
 <p align="center">
   <a href="mailto:mark.bashir.ugwi@gmail.com"><img src="https://img.shields.io/badge/email-mark.bashir.ugwi%40gmail.com-blue?style=flat-square" /></a>
